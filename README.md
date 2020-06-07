@@ -1,4 +1,4 @@
-# Online Material For AI Course - Saft
+# Online material for AI course - Saft
 
 [Ecole Nationale Supérieure de Cognitique](https://ensc.bordeaux-inp.fr)
 
