@@ -12,6 +12,7 @@
 - [Artificial Neural Networks](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/artificial_neural_networks.ipynb)
 - [Convolutional Neural Networks](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/convolutional_neural_networks.ipynb)
 - [Recurrent Neural Networks](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/recurrent_neural_networks.ipynb)
+- [Generative Deep Learning](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/generative_deep_learning.ipynb)
 
 ## Practicals
 
@@ -21,3 +22,4 @@
 - [Classify Fashion Items](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/fashion_mnist.ipynb)
 - [Classify Common Images](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/cifar10.ipynb)
 - [Distinguish Dogs vs. Cats](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/dogs_vs_cats_keras.ipynb)
+- [Forecast The Weather](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/jena_weather.ipynb)
