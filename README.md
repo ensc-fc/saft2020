@@ -23,3 +23,9 @@
 - [Classify Common Images](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/cifar10.ipynb)
 - [Distinguish Dogs vs. Cats](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/dogs_vs_cats_keras.ipynb)
 - [Forecast The Weather](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/jena_weather.ipynb)
+
+## Use Case: Battery Prognosis
+
+- [Li-ion battery prognosis using Machine Learning]()
+- [Python code for plotting dataset](battery_prognosis/ames_battery_plot.py)
+- [Python code for exporting dataset to CSV file](battery_prognosis/ames_battery_export.py)
