@@ -6,13 +6,13 @@
 
 ## Lectures/Demos
 
-- [Machine Learning In Action](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/workflow/machine_learning_in_action.ipynb)
-- [Machine Learning Fundamentals](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/workflow/machine_learning_fundamentals.ipynb)
-- [Decision Trees And Random Forests](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/decision_trees_and_random_forests.ipynb)
-- [Artificial Neural Networks](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/artificial_neural_networks.ipynb)
-- [Convolutional Neural Networks](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/convolutional_neural_networks.ipynb)
-- [Recurrent Neural Networks](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/recurrent_neural_networks.ipynb)
-- [Generative Deep Learning](https://colab.research.google.com/github/bpesquet/machine-learning-handbook/blob/master/notebooks/models/generative_deep_learning.ipynb)
+- [Machine Learning in action](https://bpesquet.github.io/mlhandbook/fundamentals/machine_learning_in_action.html)
+- [Machine Learning foundations](https://bpesquet.github.io/mlhandbook/fundamentals/machine_learning_foundations.html)
+- [Decision Trees And Random Forests](https://bpesquet.github.io/mlhandbook/algorithms/decision_trees_and_random_forests.html)
+- [Artificial Neural Networks](https://bpesquet.github.io/mlhandbook/algorithms/artificial_neural_networks.html)
+- [Convolutional Neural Networks](https://bpesquet.github.io/mlhandbook/algorithms/convolutional_neural_networks.html)
+- [Recurrent Neural Networks](https://bpesquet.github.io/mlhandbook/algorithms/recurrent_neural_networks.html)
+- [Generative Deep Learning](https://bpesquet.github.io/mlhandbook/algorithms/generative_deep_learning.html)
 
 ## Practicals
 
@@ -23,3 +23,9 @@
 - [Classify Common Images](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/cifar10.ipynb)
 - [Distinguish Dogs vs. Cats](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/dogs_vs_cats_keras.ipynb)
 - [Forecast The Weather](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/training_models/jena_weather.ipynb)
+
+## Use Case: Battery Prognosis
+
+- [Li-ion battery prognosis using Machine Learning]()
+- [Python code for plotting dataset](battery_prognosis/ames_battery_plot.py)
+- [Python code for exporting dataset to CSV file](battery_prognosis/ames_battery_export.py)
