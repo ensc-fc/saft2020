@@ -26,6 +26,4 @@
 
 ## Use Case: Battery Prognosis
 
-- [Li-ion battery prognosis using Machine Learning]()
-- [Python code for plotting dataset](battery_prognosis/ames_battery_plot.py)
-- [Python code for exporting dataset to CSV file](battery_prognosis/ames_battery_export.py)
+- [Li-ion battery prognosis using Machine Learning](https://colab.research.google.com/github/ensc-fc/saft2020/blob/master/battery_prognosis/ames_battery_prognosis.ipynb)
